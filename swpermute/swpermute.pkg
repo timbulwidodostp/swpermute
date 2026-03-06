@@ -1,4 +1,5 @@
-D 'sreweight': Reweights survey variables using external totals Use sreweight With STATA 19
+D 'swpermute': Monte Carlo permutation tests for stepped wedge trial designs Use swpermute With STATA 19
 D
-F sreweight.ado
-F sreweight.sthlp
+F swpermute.ado
+F swpermute.dlg
+F swpermute.sthlp
