@@ -2,4 +2,4 @@
 1
 2
 3
-p sreweight Reweights survey variables using external totals Use sreweight With STATA 19
+p swpermute Monte Carlo permutation tests for stepped wedge trial designs Use swpermute With STATA 19
